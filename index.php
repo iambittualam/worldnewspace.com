@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World! welcome to worldnewspace.com";
+echo "Hello World! welcome to home page";
 
 ?>
